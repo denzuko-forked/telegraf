@@ -165,7 +165,7 @@ require (
 	github.com/kardianos/service v1.0.0
 	github.com/karrick/godirwalk v1.16.1
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
-	github.com/klauspost/compress v1.13.1 // indirect
+	github.com/klauspost/compress v1.13.4 // indirect
 	github.com/kr/pretty v0.2.1 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/kylelemons/godebug v1.1.0 // indirect
@@ -193,9 +193,9 @@ require (
 	github.com/morikuni/aec v1.0.0 // indirect
 	github.com/multiplay/go-ts3 v1.0.0
 	github.com/naoina/go-stringutil v0.1.0 // indirect
-	github.com/nats-io/jwt/v2 v2.0.2 // indirect
-	github.com/nats-io/nats-server/v2 v2.2.6
-	github.com/nats-io/nats.go v1.11.0
+	github.com/nats-io/jwt/v2 v2.0.3 // indirect
+	github.com/nats-io/nats-server/v2 v2.6.1
+	github.com/nats-io/nats.go v1.12.3
 	github.com/nats-io/nkeys v0.3.0 // indirect
 	github.com/nats-io/nuid v1.0.1 // indirect
 	github.com/newrelic/newrelic-telemetry-sdk-go v0.5.1
